@@ -1,0 +1,21 @@
+h1 {
+    font-size: 10vh;
+}
+
+#banner{
+    height: 100vh;
+ 
+}
+
+.social-icon{
+    height:50px
+
+}
+
+body{
+    background-color:coral ;
+}
+
+div{
+    background-color:white
+}
